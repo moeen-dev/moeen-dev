@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdmoeenuddinn" target="blank"><img src="https://img.shields.io/twitter/follow/mdmoeenuddinn?logo=twitter&style=for-the-badge" alt="mdmoeenuddinn" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.moeenuddin.com](www.moeenuddin.com)
+- 👨‍💻 All of my projects are available at **www.moeenuddin.com/portfolios**
 
 - 📫 How to reach me **moeen.contact.me@gmail.com**
 
