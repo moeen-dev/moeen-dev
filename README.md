@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeen-dev" alt="moeen-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mdmoeenuddinn" target="blank"><img src="https://img.shields.io/twitter/follow/mdmoeenuddinn?logo=twitter&style=for-the-badge" alt="mdmoeenuddinn" /></a> </p>
+<p align="left"> <a href="https://x.com/mdmoeenuddinn" target="blank"><img src="https://img.shields.io/twitter/follow/mdmoeenuddinn?logo=twitter&style=for-the-badge" alt="mdmoeenuddinn" /></a> </p>
 
 - 👨‍💻 All of my projects are available at **www.moeenuddin.com/portfolios**
 
