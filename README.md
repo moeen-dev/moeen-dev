@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Moeen Uddin</h1>
-<h3 align="center">PHP-Laravel Developer </h3>
+<h3 align="center">PHP & Laravel Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="moeen-dev" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moeen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeen-dev" alt="moeen-dev" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moeen-dev" alt="GitHub trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://x.com/mdmoeenuddinn" target="blank"><img src="https://img.shields.io/twitter/follow/mdmoeenuddinn?logo=twitter&style=for-the-badge" alt="mdmoeenuddinn" /></a> </p>
+<p align="center">
+  <a href="https://x.com/mdmoeenuddinn" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mdmoeenuddinn?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  </a>
+</p>
 
 - 👨‍💻 All of my projects are available at **www.moeenuddin.com/portfolios**
 
