@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at **www.moeenuddin.com/portfolios**
+
 
 - 📫 How to reach me **moeen.contact.me@gmail.com**
 
