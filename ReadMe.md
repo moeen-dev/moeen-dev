@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Moeen%20and%20I'm%20a%20Laravel%20Developer,%20from%20Dhaka,%20Bangladesh.&fontSize=20&fontAlign=50&fontAlignY=70&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Moeen%20and%20I'm%20a%20Laravel%20Developer,%20from%20Dhaka,%20Bangladesh.&fontSize=20&fontColor=d83a7c&fontAlign=50&fontAlignY=70&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=moeen-dev&theme=radical&column=-1&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=moeen-dev&theme=onedark&column=-1&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -81,10 +81,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeen-dev&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=moeen-dev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeen-dev&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=moeen-dev&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -96,7 +96,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20GitHub%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=20&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20GitHub%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=20&fontColor=d83a7c&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
