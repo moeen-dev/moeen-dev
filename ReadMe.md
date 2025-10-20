@@ -8,11 +8,11 @@
 
 ###
 
-<p align="center">Passionate and detail-oriented web developer with expertise in PHP, Laravel, and modern web technologies. Seeking to leverage my skills in backend and frontend development to create scalable, high performance web applications that enhance user experience and business growth📈</p>
+<p align="left">Passionate and detail-oriented web developer with expertise in PHP, Laravel, and modern web technologies. Seeking to leverage my skills in backend and frontend development to create scalable, high performance web applications that enhance user experience and business growth📈</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
@@ -64,7 +64,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=moeen-dev&theme=radical&column=-1&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -74,7 +74,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeen-dev&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=moeen-dev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
