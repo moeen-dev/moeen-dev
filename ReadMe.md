@@ -1,6 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Moeen%20and%20I'm%20a%20Laravel%20Developer,%20from%20Dhaka,%20Bangladesh.&fontSize=20&fontColor=d83a7c&fontAlign=50&fontAlignY=70&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<h2 align="left">Hi 👋! My name is Moeen Uddin, and I'm a Laravel Developer, from Bangladesh.</h2>
 
 ###
 
