@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Moeen Uddin, and I'm a Laravel Developer, from Bangladesh.</h2>
+<p align="left">👋 Assalamu Alaikum</p>
+<h2 align="center">Hi 👋! My name is Moeen Uddin, and I'm a Laravel Developer, from Bangladesh.</h2>
 
 ###
 
