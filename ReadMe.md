@@ -7,8 +7,7 @@
 
 ###
 
-<p align="left">## Career Objective
-
+<p align="left">
 Seeking a challenging role as a Laravel Backend Developer where I can apply my expertise in PHP, Laravel, API development, and modern web technologies to build scalable, secure, and efficient applications while continuously enhancing my technical skills and contributing to organizational success.
 </p>
 
