@@ -7,7 +7,10 @@
 
 ###
 
-<p align="left">Passionate and detail-oriented web developer with expertise in PHP, Laravel, and modern web technologies. Seeking to leverage my skills in backend and frontend development to create scalable, high performance web applications that enhance user experience and business growth📈</p>
+<p align="left">## Career Objective
+
+Seeking a challenging role as a Laravel Backend Developer where I can apply my expertise in PHP, Laravel, API development, and modern web technologies to build scalable, secure, and efficient applications while continuously enhancing my technical skills and contributing to organizational success.
+</p>
 
 ###
 
