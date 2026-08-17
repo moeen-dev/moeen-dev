@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Animated Typing Header / Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2D20&center=true&vcenter=true&width=600&lines=Assalamu+Alaikum!+%F0%9F%90%9D;I'm+Moeen+Uddin;Laravel+Backend+Developer+from+Bangladesh;Building+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Header Banner with Gradient Colors & Fire Vibe -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30&text=Assalamu%20Alaikum!%20👋%20I'm%20Moeen%20Uddin&fontSize=30&animation=fadeIn&fontColor=FF2D20&height=150" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
@@ -76,27 +74,24 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=moeen-dev&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeen-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeen-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
+<!-- Animated Fire Dynamic Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=120&section=footer&animation=twinkling" width="100%" />
 </p>
