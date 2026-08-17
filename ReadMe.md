@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
+  <!-- Dynamic Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&text=🔥%20Md%20Moeen%20Uddin%20🔥&fontSize=38&fontColor=00F5FF&animation=twinkling&height=160&desc=Laravel%20Backend%20Developer%20%7C%203%2B%20Years%20Experience&descSize=16&descAlignTop=false&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Glowing Badges -->
+  <!-- Social & Contact Badges -->
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
