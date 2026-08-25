@@ -1,89 +1,110 @@
-# Hi there, I'm Md Moeen Uddin 👋 
+<div align="center">
 
-### 🚀 Laravel Backend Developer | PHP & API Specialist
+  <h1> Hi there, I'm <a href="https://github.com/moeen-dev">Md Moeen Uddin</a> 👋</h1>
+  <h3>⚡ Senior Laravel Backend Developer & API Specialist ⚡</h3>
 
-I am a passionate **Laravel Backend Developer** with **3+ years of experience** building secure, scalable, and high-performance web applications. I specialize in backend architecture, custom REST APIs, complex database designs, and seamless third-party integrations.
+  <p align="center">
+    <b>Building secure, high-performance, and scalable web application architectures.</b>
+  </p>
 
----
+  <!-- Dynamic Typing Banner / Bio Badges -->
+  <a href="https://linkedin.com/in/mdmoeenuddinn">
+    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=for-the-badge&logo=laravel&logoColor=white" alt="Experience"/>
+  </a>
+  <a href="https://github.com/moeen-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge&logo=php&logoColor=white" alt="Focus"/>
+  </a>
+  <a href="https://linkedin.com/in/mdmoeenuddinn">
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-orange?style=for-the-badge" alt="Status"/>
+  </a>
 
-### 👨‍💻 About Me
+  <br/><br/>
 
-- 🔭 **Currently focused on**: Building scalable Laravel backend systems & RESTful APIs.
-- 💼 **Specializations**: Custom Web Apps, Payment Gateway Integrations, DB Optimization, & Auth Systems.
-- 🎨 **Frontend Knowledge**: HTML5, CSS3, JavaScript, jQuery, Bootstrap (collaborating across full-stack lifecycles).
-- 🌱 **Learning & Improving**: Continuously exploring advanced architecture patterns & modern dev tools.
-- 📫 **How to reach me**: Reach out on [LinkedIn](https://linkedin.com/in/mdmoeenuddinn) or drop me a message on social media.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-**Databases & Tools:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moeen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### ⚡ Core Expertise
-
-- 🟢 **Backend**: PHP & Laravel Framework
-- 🔌 **APIs**: REST API Development, OAuth, Third-Party API Integrations
-- 🗄️ **Databases**: MySQL Schema Design, Query Optimization, Relationships
-- 🔐 **Security**: Authentication & Authorization (JWT, Sanctum, Passport)
-- 💳 **Integrations**: SSLCommerz, bKash, Stripe, & Custom Payment Gateways
-- 🛠️ **DevOps & Tools**: Version Control (Git/GitHub), Bug Fixing, Refactoring
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
+  <!-- Social Icons Grid -->
   <a href="https://linkedin.com/in/mdmoeenuddinn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/mdmoeenuddinn" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/mdmoeenuddinn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://youtube.com/@mdmoeenuddinn" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
+
+</div>
+
+<br/>
 
 ---
-<p align="center"><i>"Writing clean, maintainable, and efficient code to solve real-world challenges."</i></p>
+
+### 👨‍💻 Executive Summary
+
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+I am a results-driven **Laravel Backend Developer** with **3+ years of experience** architecting robust web applications, RESTful APIs, and complex backend systems. My core engineering mindset revolves around clean architecture (SOLID principles), query optimization, and resilient third-party integrations that scale cleanly with business growth.
+
+<br/>
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="22" height="22" valign="middle"/> **PHP** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="22" height="22" valign="middle"/> **Laravel Framework** |
+| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="22" height="22" valign="middle"/> **MySQL** *(Schema Design, Indexing, Query Optimization)* |
+| **API Architecture** | **RESTful APIs**, OAuth 2.0, JWT, Laravel Sanctum, Passport |
+| **Integrations** | **Payment Gateways**: SSLCommerz, bKash, Stripe & Custom APIs |
+| **Frontend Stack** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" valign="middle"/> JavaScript, jQuery, HTML5, CSS3, Bootstrap |
+| **DevOps & Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" valign="middle"/> Git, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" valign="middle"/> GitHub, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="20" height="20" valign="middle"/> Postman |
+
+<br/>
+
+### 🎯 Core Capabilities
+
+- **⚡ High-Performance Architectures**: Structuring scalable database schemas, optimizing complex SQL queries, and implementing caching mechanisms.
+- **🔌 Secure API Engineering**: Building production-ready, well-documented REST APIs with robust token authentication and role-based access control (RBAC).
+- **💳 Business Systems Integration**: Implementing seamless payment processing pipelines (SSLCommerz, bKash, Stripe) and third-party webhook handling.
+- **🛠️ Maintainable Codebases**: Enforcing strict DRY/SOLID design patterns, refactoring legacy code, and eliminating security vulnerabilities.
+
+<br/>
+
+### 📊 GitHub Dashboard
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=moeen-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-dev&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Most Used Languages" width="380"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeen-dev&theme=dracula&hide_border=true" alt="GitHub Streak" width="98%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  📫 **Want to collaborate or build something impactful together?**
+  <br/><br/>
+  <a href="https://linkedin.com/in/mdmoeenuddinn">
+    <img src="https://img.shields.io/badge/Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn"/>
+  </a>
+
+  <br/><br/>
+
+  <sub>Designed with ❤️ by Md Moeen Uddin</sub>
+
+</div>
